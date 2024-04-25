@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @tdalvi301
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-tdalvi301/tdalvi301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AWS Account Creation
+![image](https://github.com/tdalvi301/tdalvi301/assets/166604153/83e51c24-b94b-4b05-ab23-ce62ecd44a5e)
+![image](https://github.com/tdalvi301/tdalvi301/assets/166604153/4c52b83b-b7fd-4ef6-9ce0-c2c57e2b646c)
+![image](https://github.com/tdalvi301/tdalvi301/assets/166604153/233c7a42-bce4-4dad-bfda-6e17402a1f02)
+![image](https://github.com/tdalvi301/tdalvi301/assets/166604153/b7b4bcc4-f48d-40b0-ac08-b33f0208ce2d)
+![image](https://github.com/tdalvi301/tdalvi301/assets/166604153/6cac745d-9797-4c39-8b73-14a69f1072f4)
+![image](https://github.com/tdalvi301/tdalvi301/assets/166604153/b99c5a2c-daa1-40a6-adc0-d1fafc3e00fb)
+![image](https://github.com/tdalvi301/tdalvi301/assets/166604153/4a2e8173-d5bd-441e-bbe0-549368d1fe1f)
+![image](https://github.com/tdalvi301/tdalvi301/assets/166604153/cad17f03-064d-4f8c-8a2a-ce1d1fefa8a3)
+![image](https://github.com/tdalvi301/tdalvi301/assets/166604153/61e37457-eb21-49f8-9c2b-84f1ebc202ae)
+![image](https://github.com/tdalvi301/tdalvi301/assets/166604153/ad4bb480-94c4-4fd4-a361-41ee9879bec2)
+![image](https://github.com/tdalvi301/tdalvi301/assets/166604153/94fcdab0-438e-440d-afaf-46c08a565db8)
+![image](https://github.com/tdalvi301/tdalvi301/assets/166604153/97c6b73f-a78d-4344-ba30-a2ba7ee5eee8)
+![image](https://github.com/tdalvi301/tdalvi301/assets/166604153/01f4fcee-3058-4e42-a54d-75834100ca5f)
+![image](https://github.com/tdalvi301/tdalvi301/assets/166604153/24328b85-8257-4998-a338-f528293942cf)
+![image](https://github.com/tdalvi301/tdalvi301/assets/166604153/04a65d7b-1587-4f44-935c-6d239ce5ddf6)
